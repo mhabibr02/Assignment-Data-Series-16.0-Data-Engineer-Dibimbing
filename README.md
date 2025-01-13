@@ -1,6 +1,9 @@
 # Assignment Data Series 16.0 Data Engineer
 ## SQL Bigquery Dataset Chicago Taxi Trips
-Source Dataset from Google Cloud : https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1sbigquery-public-data!2schicago_taxi_trips
+Source Dataset from Google Cloud : https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1sbigquery-public-data!2schicago_taxi_trips <br>
+Q1 Query : https://console.cloud.google.com/bigquery?sq=367095854633:ce9fe48854104803a4b61c260e4e04a4 <br>
+Q2 Query : https://console.cloud.google.com/bigquery?sq=367095854633:fac38e5e00104337be26ba4258f6cd93 <br>
+Q3 Query : https://console.cloud.google.com/bigquery?sq=367095854633:92f5b88794764078a76908f877383da1 
 
 Description
 
