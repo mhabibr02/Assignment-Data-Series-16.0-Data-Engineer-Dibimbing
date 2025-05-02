@@ -37,6 +37,7 @@ Compare the average costs of fares, tips, tolls, and extras across different pay
 ### Conclusion
 Using SQL on BigQuery to analyze the Chicago taxi trips dataset yields valuable insights into urban mobility patterns, customer behaviors, and operational trends. The findings provide actionable data for taxi service providers, urban planners, and policymakers to enhance service efficiency, cater to customer preferences, and address high-demand routes effectively.
 
+### Remark
 If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on Email : azizhabibrahim@gmail.com and LinkedIn : https://www.linkedin.com/in/mhabibr02/
 
 #SQL #BigQuery #GoogleCloud #ChicagoTaxiTrips 
