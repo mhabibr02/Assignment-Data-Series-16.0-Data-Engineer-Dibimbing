@@ -1,16 +1,10 @@
-# Assignment Data Series 16.0 Data Engineer
+# Assignment Data Series 16.0 Data Engineer Dibimbing
 ## SQL Bigquery Dataset Chicago Taxi Trips
-
+### Description
+Data Series 16.0 Data Engineer by [Dibimbing](https://dibimbing.id/) is an intensive, hands-on training program designed to equip participants with the essential skills and knowledge required to become a proficient Data Engineer. Through a structured and practical curriculum, participants learn how to build and manage data pipelines, work with various data storage systems, and implement data processing workflows using industry-standard tools and technologies.
 <p align="center">
 <img src="/Certificate/Sertifikat Data Series 16 Data Engineer.jpg" width="80%" height="30%">
 </p>
-
-Source Dataset from Google Cloud : https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1sbigquery-public-data!2schicago_taxi_trips <br>
-Q1 Query : https://console.cloud.google.com/bigquery?sq=367095854633:ce9fe48854104803a4b61c260e4e04a4 <br>
-Q2 Query : https://console.cloud.google.com/bigquery?sq=367095854633:fac38e5e00104337be26ba4258f6cd93 <br>
-Q3 Query : https://console.cloud.google.com/bigquery?sq=367095854633:92f5b88794764078a76908f877383da1 
-
-Description
 
 ### Objective
 The project utilizes the publicly available bigquery-public-data.chicago_taxi_trips.taxi_trips dataset to analyze Chicago taxi trip data. The dataset contains detailed information about taxi trips, including trip start and end times, pickup and dropoff locations, fare, tips, tolls, and payment methods. SQL queries in Google BigQuery are employed to extract insights from the data.
@@ -36,6 +30,12 @@ Compare the average costs of fares, tips, tolls, and extras across different pay
  
 ### Conclusion
 Using SQL on BigQuery to analyze the Chicago taxi trips dataset yields valuable insights into urban mobility patterns, customer behaviors, and operational trends. The findings provide actionable data for taxi service providers, urban planners, and policymakers to enhance service efficiency, cater to customer preferences, and address high-demand routes effectively.
+
+### Source
+Source Dataset from Google Cloud : https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1sbigquery-public-data!2schicago_taxi_trips <br>
+Q1 Query : https://console.cloud.google.com/bigquery?sq=367095854633:ce9fe48854104803a4b61c260e4e04a4 <br>
+Q2 Query : https://console.cloud.google.com/bigquery?sq=367095854633:fac38e5e00104337be26ba4258f6cd93 <br>
+Q3 Query : https://console.cloud.google.com/bigquery?sq=367095854633:92f5b88794764078a76908f877383da1 
 
 ### Remark
 If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on [Email](mailto:azizhabibrahim@gmail.com) and 
